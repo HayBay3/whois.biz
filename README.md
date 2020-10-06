@@ -1,2 +1,2 @@
 # whois.biz
-"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+"publishConfig": { "registry": "https://whois.biz.github.com/" }
